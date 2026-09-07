@@ -1,0 +1,17 @@
+{
+  "name": "dep-second-opinion-dogfood",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public dogfood host for lory69060/dep-second-opinion (comment-only Dependabot second opinion).",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "semver": "^7.6.3"
+  }
+}
